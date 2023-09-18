@@ -51,7 +51,7 @@ with col1:
     st.markdown("Many professionals seek ways to enhance the quality of their emails but may lack the necessary skills. \n\n This tool \
                  is designed to refine your email by transforming your messages into a more polished and professional format.\n\n This application \
                 is powered by [LangChain](https://langchain.com/) and [OpenAI](https://openai.com) and made by \
-                [AmanChhetri](https://twitter.com/iamamanchhetri). \n\n View Source Code on [Github](https://github.com/aman-chhetri/Email-Tonifier)")
+                [AmanChhetri](https://twitter.com/iamamanchhetri). \n\n View Source Code on [Github](https://github.com/aman-chhetri/Email-Tonifier/tree/main)")
 
 with col1:
     st.image(image='mail_logo.jpg', width=500, caption='')
