@@ -6,7 +6,7 @@ View Live App: https://globalize.streamlit.app/
 
 Video of how this code was made: https://www.youtube.com/watch?v=U_eV8wfMkXU
 
-![Email Converter Preview](https://i.imgur.com/4vHwjId.png)
+![Cover](./cover_lighttheme1.png)
 
 ## Deploy on Streamlit
 
