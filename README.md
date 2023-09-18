@@ -46,5 +46,9 @@ pip install streamlit
 streamlit run main.py
 ```
 
+## Feedback and Contributions 🤝
+
+Feedback and contributions are welcome! If you have any suggestions for improving this project or adding new features, please feel free to open an issue using [GitHub Issues](https://github.com/aman-chhetri/Email-Tonifier/issues) or submit a pull request on the GitHub repository.
+
 ## Contact 📩
 Made by: [@amankshetri](https://www.linkedin.com/in/amankshetri/) - feel free to contact me! 🙂
