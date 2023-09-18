@@ -1,10 +1,10 @@
-# Email Tonifier
+# Email Tonifier ✉️
 
 This repo serves as a template for how to make your own LangChain apps on Streamlit.
 
-View Live App: https://globalize.streamlit.app/
+View Live App: https://email-tonifier.streamlit.app/
 
-Video of how this code was made: https://www.youtube.com/watch?v=U_eV8wfMkXU
+Video of how this code was made: https://www.youtube.com/
 
 ![Cover](./cover_lighttheme1.png)
 
