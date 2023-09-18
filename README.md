@@ -4,9 +4,6 @@
 
 You can access the deployed application: [Live App](https://email-tonifier.streamlit.app/)
 
-Demo Video (Screencast): [Demo](https://www.youtube.com/)
-
-
 ## About the Project 🧾
 
 Email Tonifier is a tool designed to empower professionals by transforming their emails into polished and professional communications, addressing the common challenge of crafting well-structured and appropriately toned messages.
