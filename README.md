@@ -1,14 +1,50 @@
 # Email Tonifier ✉️
 
-This repo serves as a template for how to make your own LangChain apps on Streamlit.
+> This application is powered by Streamlit and LangChain which serves as a user-friendly web tool for enhancing professional email communication by refining tone, format, and dialect.
 
-View Live App: https://email-tonifier.streamlit.app/
+You can access the deployed application: [Live App](https://email-tonifier.streamlit.app/)
 
-Video of how this code was made: https://www.youtube.com/
+Demo Video (Screencast): [Demo](https://www.youtube.com/)
+
+
+## About the Project 🧾
+
+Email Tonifier is a tool designed to empower professionals by transforming their emails into polished and professional communications, addressing the common challenge of crafting well-structured and appropriately toned messages.
+
+## Technologies used 🧑‍💻
+
+- [Streamlit](https://streamlit.io/)
+- [LangChain](https://python.langchain.com/docs/get_started/introduction)
+- [OpenAI](https://openai.com/)
+- [Python](https://www.python.org/)
 
 ![Cover](./cover_lighttheme1.png)
 
-## Deploy on Streamlit
+## **How to use 📦**
 
-This app is meant to be deployed on [Streamlit](https://streamlit.io/).
-Note that when setting up your StreamLit app you should make sure to add `OPENAI_API_KEY` as a secret environment variable.
+1. Clone the repository to your local machine:
+
+```
+https://github.com/aman-chhetri/Email-Tonifier.git
+```
+
+2. Navigate to the project directory:
+
+```
+cd Email-Tonifier
+```
+
+3. Install the required dependencies: 
+
+```
+pip install streamlit
+```
+
+4. Run the Streamlit app:
+
+```
+streamlit run main.py
+```
+
+## Contact 📩
+Made by: [@amankshetri](https://www.linkedin.com/in/amankshetri/) - feel free to contact me! 🙂
